@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Navbar css */
+.nav-section li a{
+    font-size: 16px;
+    font-weight: 500;
+}
+.bg-img-one{
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-img-two{
+    background-image: url(images/banner2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-img-three{
+    background-image: url(images/banner5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-content {
+    padding:200px 0 50px 0 ;
+}
+.banner-content h2{
+    color: #ffff;
+    font-size: 46px;
+    font-weight: 600;
+}
+.banner-content p{
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(202, 200, 200);
+}
+
+/* album section */
+.album-content h2{
+    font-size: 38px;
+    font-weight: 700;
+
+}
+.album-content p{
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(92, 92, 92);
+}
