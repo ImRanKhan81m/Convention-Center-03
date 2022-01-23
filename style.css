@@ -6,6 +6,10 @@ body{
 }
 
 /* Navbar css */
+.nav-section a{
+    font-size: 22px;
+    font-weight: 700;
+}
 .nav-section li a{
     font-size: 16px;
     font-weight: 500;
@@ -49,4 +53,68 @@ body{
     font-size: 16px;
     font-weight: 300;
     color: rgb(92, 92, 92);
+}
+
+/* Our Package Style */
+.our-package h1{
+    font-size: 38px;
+    font-weight: 600;
+}
+.package-content ul{
+    padding-left: 0;
+}
+
+.package-content ul li{
+    list-style: none;
+    font-size: 15px;
+    font-weight: 400;
+    color: #848199;
+    margin-top: 10px;
+}
+.package-content ul li i{
+    margin-right: 5px;
+    color: rgb(5, 9, 255);
+}
+.package-content h2{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+
+}
+.package-content h3{
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.package-content p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #848199;
+}
+.package-content .btn{
+    background: #f496d22a;
+    color: #3F87F5;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px 70px;
+}
+.our-package .card{
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+    color: #fff;
+}
+.our-package .card p{
+    color: rgba(255, 255, 255, 0.897);
+    font-weight: 400;
+}
+.our-package .card ul li{
+    color: rgba(255, 255, 255, 0.897);
+}
+.our-package .card ul li i{
+    color: rgba(255, 255, 255, 0.897);
+}
+.our-package .card .btn{
+    background: #fff;
+    color: #3F87F5;
 }
