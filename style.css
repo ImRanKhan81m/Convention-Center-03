@@ -118,3 +118,9 @@ body{
     background: #fff;
     color: #3F87F5;
 }
+
+/* question-section style */
+.question-section h1{
+    font-size: 38px;
+    font-weight: 600;
+}
