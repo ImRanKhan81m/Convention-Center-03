@@ -139,6 +139,9 @@ body{
     font-size: 16px;
     color: coral;
 }
+.photographer-details i{
+    font-size: 20px;
+}
 .photographer-section h1{
     font-size: 38px;
     font-weight: 600;
@@ -146,5 +149,5 @@ body{
 .photographer-section p{
     font-size: 18px;
     font-weight: 300;
-    
+
 }
