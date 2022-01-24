@@ -65,7 +65,16 @@ body{
 .package-content ul{
     padding-left: 0;
 }
-
+.package-content .badge-icon{
+    position: absolute;
+    top: 0;
+    right: 60px;
+}
+.package-content .badge-icon span{
+    padding: 10px 15px;
+    font-size: 15px;
+    
+}
 .package-content ul li{
     list-style: none;
     font-size: 15px;
