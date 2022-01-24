@@ -103,6 +103,8 @@ body{
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
     border-radius: 26px;
     color: #fff;
+    position: relative;
+    bottom: 30px;
 }
 .our-package .card p{
     color: rgba(255, 255, 255, 0.897);
@@ -123,4 +125,26 @@ body{
 .question-section h1{
     font-size: 38px;
     font-weight: 600;
+}
+
+/* Team section */
+.photographer-items{
+    background: rgba(22, 83, 250, 0.027);
+    border-radius: 20px;
+}
+.photographer-img img{
+    border-radius: 10px;
+}
+.photographer-details h4{
+    font-size: 16px;
+    color: coral;
+}
+.photographer-section h1{
+    font-size: 38px;
+    font-weight: 600;
+}
+.photographer-section p{
+    font-size: 18px;
+    font-weight: 300;
+    
 }
